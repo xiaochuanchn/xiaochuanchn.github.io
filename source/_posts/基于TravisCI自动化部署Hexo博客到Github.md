@@ -171,14 +171,3 @@ git push origin blog-source:blog-source
 构建完成后，我们去[博客可以看见这个文章了](https://link.jianshu.com?t=http://i.woblog.cn/2016/05/04/hello-travis-ci/)
 
 ![img](https:////upload-images.jianshu.io/upload_images/1152636-348f5d75ada74926.png?imageMogr2/auto-orient/strip|imageView2/2/w/825/format/webp)
-
-是不是逼格十足呢
-
-如果我的文章对来带来的帮助，可加我微信，微博，QQ什么啥的交个朋友也是不错的，另外微信，微博都会不定期发一些优质的文章，感谢大家的支持~，联系方式在我的个人介绍里啦，感谢你的阅读，谢谢
-
-
-
-作者：SmileUsers
-链接：https://www.jianshu.com/p/e22c13d85659
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
