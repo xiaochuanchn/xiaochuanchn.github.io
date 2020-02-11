@@ -1,12 +1,12 @@
 ---
 title: Mac下安装Homebrew
 author: Alan
-top: true
+top: false
 cover: true
 toc: true
 mathjax: false
 summary: Mac下安装Homebrew及替换homebrew源
-categories: Markdown
+categories: Mac
 tags:
   - Mac
   - Homebrew

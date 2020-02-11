@@ -2,7 +2,7 @@
 title: Material博客主题配置说明
 author: Alan
 top: true
-cover: true
+cover: false
 toc: true
 mathjax: false
 summary: Material博客主题配置说明
@@ -1852,6 +1852,4 @@ hexo deploy
 
 ## 参考
 
-1. [https://hexo.io/zh-cn/](https://sitoi.cn/go.html?u=aHR0cHM6Ly9oZXhvLmlvL3poLWNuLw==)
-2. [https://blinkfox.github.io/2018/09/28/qian-duan/hexo-bo-ke-zhu-ti-zhi-hexo-theme-matery-de-jie-shao/](https://sitoi.cn/go.html?u=aHR0cHM6Ly9ibGlua2ZveC5naXRodWIuaW8vMjAxOC8wOS8yOC9xaWFuLWR1YW4vaGV4by1iby1rZS16aHUtdGktemhpLWhleG8tdGhlbWUtbWF0ZXJ5LWRlLWppZS1zaGFvLw==)
-3. [https://yafine-blog.cn/posts/4ab2.html](https://sitoi.cn/go.html?u=aHR0cHM6Ly95YWZpbmUtYmxvZy5jbi9wb3N0cy80YWIyLmh0bWw=)
+3. [https://sitoi.cn/posts/63466.html](https://sitoi.cn/go.html?u=aHR0cHM6Ly95YWZpbmUtYmxvZy5jbi9wb3N0cy80YWIyLmh0bWw=)

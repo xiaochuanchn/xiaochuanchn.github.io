@@ -1,7 +1,7 @@
 ---
 title: Git常用操作命令
 author: Alan
-top: true
+top: false
 cover: true
 toc: true
 mathjax: false

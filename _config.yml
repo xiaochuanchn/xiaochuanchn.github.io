@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Alan's Blog
+title: XIAOCHUAN
 subtitle: 大道至简 悟至天成
 description: ''
 keywords:
@@ -60,7 +60,7 @@ highlight:
 prism_plugin:
   mode: 'preprocess'    # realtime/preprocess
   theme: 'tomorrow'
-  line_number: false    # default false
+  line_number: true    # default false
   custom_css:
 #内容搜索
 search:
